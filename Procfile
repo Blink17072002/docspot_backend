@@ -1,0 +1,1 @@
+web: gunicorn docspot.wsgi --log-file -
